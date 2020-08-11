@@ -1,7 +1,7 @@
 # Intent
 # Tugas intent modul 9 10 11
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/hasil1.jpg)
+![Alt Text](hasil1.png)
 
 # Modul 9
 Pada modul ini digunakan untuk pindah dari satu activity ke activity lain
@@ -53,7 +53,7 @@ ubah Activity Name : MoveActivity untuk modul 9
 
 hasilnya modul 9 adalah :
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/hasil2.jpg)
+![Alt Text](hasil2.png)
 
 ubah Activity Name : MoveActivityWithData untuk modul 10
 
@@ -69,11 +69,16 @@ tambahkan textviewer untuk menampilkan data yang dikirimkan dari activity asal
 
 hasilnya modul 10 adalah :
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/hasil3.jpg)
+![Alt Text](hasil3.png)
 
 hasil modul 11 :
 
-![alt text](https://github.com/SalsabillaMA/Intent/blob/master/hasil4.jpg)
+![alt text](hasil4.png)
+
+
+# Salsabilla Maurettasya A
+# 39 - XI RPL 3
+
 
 
 
