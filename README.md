@@ -18,6 +18,10 @@ a. activity_main.xml
 
 ![Alt Text](1.JPG)
 
+Linear Layout adalah jenis Layout dimana kita menempatkan 1 objek per baris atau kolom, vertical atau horizontal. 
+
+Jadi di dalam setiap baris (vertical) atau kolom (horizontal) hanya ada 1 objek saja yang kita tempatkan.
+
 -design-
 
 ![Alt Text](2.JPG)
@@ -50,6 +54,8 @@ ubah Activity Name : MoveActivity untuk modul 9
 - activity_move.xml
 
 ![Alt Text](7.JPG)
+
+Relative Layout adalah Layout yang membebaskan kita untuk menempatkan objek-objek didalamnya dapat berada di atas,bawah,kiri,kanan objek lainnya atau bisa disebut dengan Relative, jadi ini merupakan Layout yang penataannya lebih bebas sehingga bisa di tata di mana saja.
 
 hasilnya modul 9 adalah :
 
