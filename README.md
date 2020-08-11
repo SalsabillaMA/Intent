@@ -55,6 +55,12 @@ hasilnya modul 9 adalah :
 
 ![Alt Text](hasil2.png)
 
+Pada modul ini terdapat suatu objek Intent seperti berikut :
+
+Intent(MainActivity.this,MoveActivity.class);
+
+this digunakan untuk kelas asal sedangkan class digunakan untuk kelas tujuan
+
 ubah Activity Name : MoveActivityWithData untuk modul 10
 
 - activity_move_with_data.xml
@@ -74,6 +80,12 @@ hasilnya modul 10 adalah :
 hasil modul 11 :
 
 ![alt text](hasil4.png)
+
+Dalam modul ini terdapat kode
+
+Uri.parse("tel:"+phoneNumber)
+
+"tel:" berfungsi sebagai schema sedangkan phoneNumber adalah sebuah variabel
 
 
 # Salsabilla Maurettasya A
