@@ -16,30 +16,30 @@ a. activity_main.xml
 
 -code-
 
-![Alt Text]https://github.com/SalsabillaMA/Intent/blob/master/1.jpg)
+![Alt Text](1.JPG)
 
 -design-
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/2.jpg)
+![Alt Text](2.JPG)
 
 b. tambahkan berkas dimen.xml
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/3.jpg)
+![Alt Text](3.JPG)
 
 c.string.xml
 
 disini kita bisa mengisi string yang diperlukan dan disii sudah ada beberapa string yang dibutuhkan dalam modul 9 dan berikutnya
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/4.jpg)
+![Alt Text](4.JPG)
 
 d. MainActivity.java
 
 Baris yang tertera berfungsi untuk memperkenalkan button yang sudah ditambahkan di layout activity_main.xml dan beberapa baris untuk menambahkan event onClick pada btn dengan java
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/5.jpg)
+![Alt Text](5.JPG)
 
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/6.jpg)
+![Alt Text](6.JPG)
 
 e. membuat btnMoveActivity
 
@@ -49,7 +49,7 @@ ubah Activity Name : MoveActivity untuk modul 9
 
 - activity_move.xml
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/7.jpg)
+![Alt Text](7.JPG)
 
 hasilnya modul 9 adalah :
 
@@ -61,11 +61,11 @@ ubah Activity Name : MoveActivityWithData untuk modul 10
 
 tambahkan textviewer untuk menampilkan data yang dikirimkan dari activity asal
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/8.jpg)
+![Alt Text](8.JPG)
 
 - MoveWithDataActivity.java
 
-![Alt Text](https://github.com/SalsabillaMA/Intent/blob/master/9.jpg)
+![Alt Text](9.JPG)
 
 hasilnya modul 10 adalah :
 
